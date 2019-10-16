@@ -2,4 +2,4 @@
 
 You can find the Tree of this project [here](https://github.com/pdziersk/gitexample/network).
 
-#### I will also add the used commands in here.
+#### See [here](https://github.com/pdziersk/git-eportfolio) for additional information
