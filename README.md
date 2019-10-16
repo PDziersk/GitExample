@@ -1,7 +1,5 @@
 # Git-Example created throughout the ePortfolio
 
-You can find the
- - Tree: https://github.com/project/network
- - Member: https://github.com/project/graphs/contributors
+You can find the Tree of this project [here](https://github.com/pdziersk/gitexample/network).
 
-In here i will add the used commands later.
+####I will also add the used commands in here.
